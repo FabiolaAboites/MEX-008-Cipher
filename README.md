@@ -1,3 +1,18 @@
+# Testamento Cifra2
+
+Es un proyecto orientado a las personas jubiladas que quieren heredar una pensión ya sea a su esposo (a) ó un hijo directo, pero que le preocupa dejar todos los papeles e indicaciones por escrito con temor a que alguien haga mal uso de la información. 
+
+La aplicación web utiliza sólo el abecedario común, sin caracteres ni espacios, lo que permite cifrar un mensaje y así guardar la información de forma segura; esto permite posteriormente regresar a la aplicación web y descrifrar lo que parecieran ser letras desordenadas.
+
+# ¿Cómo está organizado el proyecto?
+
+Cuenta con tres pantallas interactivas donde el usuario recibe las instrucciones necesarias para tener claro el funcionamiento de la aplicación web.
+
+Pantalla 1: Es una bienvenida con una breve explicación de qué se trata Testamento Cifra2 con un botón de Ingresar.
+Pantalla 2: Se muestran las intrucciones puntuales, una caja de texto para ingresar la palabra ó mensaje y otra caja donde selecciona el tipo de clave que utilizará. Abajo de esta información hay dos botones para "Cifrar" y "Descifrar" la palabra ó el mensaje, abajo aparece otro botón que indica "Salir" para ser dirigido a la tercera pantalla.
+Pantalla 3: Muestra un mensaje de agradecimiento por haber utilizado la aplicación junto con un botón que invita al usuario a "Volver a Cifrar".
+
+
 # Cifrado César
 
 Cifrar significa codificar. El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher) es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio César lo usaba para enviar órdenes secretas a sus generales en los campos de batalla.
