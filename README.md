@@ -4,6 +4,10 @@ Es un proyecto orientado a las personas jubiladas que quieren heredar una pensi�
 
 La aplicación web utiliza sólo el abecedario común, sin caracteres ni espacios, lo que permite cifrar un mensaje y así guardar la información de forma segura; esto permite posteriormente regresar a la aplicación web y descrifrar lo que parecieran ser letras desordenadas.
 
+# Metodología
+
+Por medio de entrevistas breves a posibles usuarios jubilados se obtiene un respuesta en cuanto a si consideran útil la aplicación web o incluso si creen que no lo utilizarían.
+
 # ¿Cómo está organizado el proyecto?
 
 Cuenta con tres pantallas interactivas donde el usuario recibe las instrucciones necesarias para tener claro el funcionamiento de la aplicación web.
